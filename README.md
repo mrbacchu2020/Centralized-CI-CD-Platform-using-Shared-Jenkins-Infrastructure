@@ -106,8 +106,9 @@ Example:
 ## Python Application Repository
 
 Repository:
+### 🔗 Application Source Code
 
-[Python Application Repository](https://github.com/mrbacchu2020/app-python)
+➡️ [Python App Repository](https://github.com/mrbacchu2020/app-python)
 
 Structure:
 
