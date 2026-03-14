@@ -107,9 +107,7 @@ Example:
 
 Repository:
 
-```
-https://github.com/mrbacchu2020/app-python
-```
+[Python Application Repository](https://github.com/mrbacchu2020/app-python)
 
 Structure:
 
