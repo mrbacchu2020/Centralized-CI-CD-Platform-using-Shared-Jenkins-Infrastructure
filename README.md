@@ -128,7 +128,7 @@ docs/python-repo.png
 
 Example:
 
-![Python Repository](docs/python-repo.png)
+![Python Repository](docs/app-python.png)
 
 ---
 
