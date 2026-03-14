@@ -98,7 +98,7 @@ docs/nodejs-repo.png
 
 Example:
 
-![NodeJS Repository](docs/nodejs-repo.png)
+![NodeJS Repository](docs/app-nodejs.png)
 
 ---
 
