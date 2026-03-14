@@ -77,7 +77,7 @@ Repository:
 
 ### 🔗 Application Source Code
 
-➡️ [Node.js App Repository](https://github.com/mrbacchu2020/app-node)
+➡️ [Node.js App Repository]([https://github.com/mrbacchu2020/app-nodejs)
 
 
 Structure:
