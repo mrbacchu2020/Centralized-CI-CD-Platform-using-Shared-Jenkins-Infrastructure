@@ -191,7 +191,7 @@ Manage Jenkins → System → Global Pipeline Libraries
 Library Name:
 
 ```
-shared-library
+shared-library-config
 ```
 
 📸 Screenshot
