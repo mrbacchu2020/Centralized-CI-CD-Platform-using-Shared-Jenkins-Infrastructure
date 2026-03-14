@@ -40,7 +40,9 @@ Developers → GitHub Repositories → Jenkins Server (EC2) → Shared Pipeline 
 
 # System Architecture Diagram
 
-(docs/architecture-diagram.png.png)
+ ## Architecture Diagram
+
+![CI/CD Architecture]()
 
 ---
 
