@@ -177,7 +177,7 @@ docs/jenkins-nodes.png
 
 Example:
 
-![Jenkins Nodes](docs/jenkins-nodes.png)
+![Jenkins Nodes](docs/Jenkins-node.png)
 
 ---
 
