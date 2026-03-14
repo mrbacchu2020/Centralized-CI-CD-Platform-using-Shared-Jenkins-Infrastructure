@@ -246,7 +246,7 @@ docs/pipeline-stage-view.png
 
 Example:
 
-![Pipeline Stages](docs/pipeline-stage-view.png)
+![Pipeline Stages](docs/pipeline-stage-app-nodejs.png)
 
 ---
 
