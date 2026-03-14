@@ -40,11 +40,7 @@ Developers → GitHub Repositories → Jenkins Server (EC2) → Shared Pipeline 
 
 ```
 📸 Screenshot Location
-docs/architecture-diagram.png
-```
-
-Example:
-
+docs/architecture-diagram.png.png
 
 
 
