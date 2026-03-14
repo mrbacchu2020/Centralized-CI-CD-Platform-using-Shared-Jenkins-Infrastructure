@@ -154,7 +154,7 @@ docs/jenkins-dashboard.png
 
 Example:
 
-![Jenkins Dashboard](docs/jenkins-dashboard.png)
+![Jenkins Dashboard](docs/Jenkins dashboard.png)
 
 ---
 
